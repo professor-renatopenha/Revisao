@@ -2,8 +2,6 @@ If condicao then
   2
 else if
   4
-else if
-  6
 else
-  erro
+  6
 end if;
